@@ -1,0 +1,172 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    background-image: url(./assets/fondo-negro-textura.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   flex-direction: column;
+}
+
+
+img {
+    width: 49%;
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-size: 90px;
+    font-weight: bold;
+    line-height: 38px;
+    letter-spacing: 7px;
+    color: #FFFFFF;
+    text-shadow: 0 5px 2px #acacac59;
+
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    color: #FFFFFF;
+
+}
+
+input {
+    width: 342px;
+    height: 54px;
+    margin: 30px 0;
+    border-radius: 14px;
+    border: none;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.input-min {
+    margin-right: 62px;
+}
+
+.button-generate {
+    width: 342px;
+    height: 72px;
+    margin-top: 20px;
+    padding: 0px 76px 0px 76px;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(#C38934, #F4EBA0);
+    font-size: 36px;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 3px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0 5px 2px #acacac59;
+}
+
+.button-generate:hover {
+    opacity: 0.9;
+}
+
+.button-generate:active {
+    background: #BF8A3D;
+}
+
+.swal-modal {
+    background: linear-gradient(#F4EBA0, 75%, #C38934);
+}
+
+.swal-title {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+
+.swal-text {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+.swal-button {
+    width: 242px;
+    height: 52px;
+    margin-top: 10px;
+    padding: 0px 76px 0px 76px;
+    border-radius: 10px;
+    border: none;
+    background: #ffffff;
+    font-size: 36px;
+    color: #554F33;
+    font-weight: 700;
+    line-height: 3px;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0px 5px 3px #acacac59;
+
+}
+
+
+
+/*RESPONSIVE*/
+
+@media screen and (max-width:700px) {
+
+    h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    div input {
+        width: 60%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+    }
+
+    .input-min,
+    .input-max {
+        display: flex;
+        margin: auto;
+        margin-bottom: 20px;
+        width: 90vw;
+    }
+
+    .button-generate {
+        width: 270px;
+        height: 55px;
+        font-size: 30px;
+    }
+
+    img {
+        width: 100vw;
+    }
+
+   
+}
