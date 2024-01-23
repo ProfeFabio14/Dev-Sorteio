@@ -10,6 +10,4 @@
 <p><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></p>
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 
-<h4>:heavy_check_mark: ᴄᴏɴsᴛʀᴜí ᴍᴇᴜ ᴘʀɪᴍᴇɪʀᴏ ᴄᴏɴᴠᴇʀsᴏʀ ᴅᴇ ᴍᴏᴇᴅᴀs ᴜᴛɪʟɪᴢᴀɴᴅᴏ ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ᴏɴᴅᴇ ᴀᴘʀᴇɴᴅɪ ᴀ ᴍᴀɴɪᴘᴜʟᴀʀ ᴇʟᴇᴍᴇɴᴛᴏs ᴅᴏ ᴅᴏᴍ, ғᴀᴢᴇʀ ᴄáʟᴄᴜʟᴏs ᴅᴇ ᴄᴏɴᴠᴇʀsãᴏ ᴇ ʀᴇsᴘᴏɴᴅᴇʀ ᴀ ᴇᴠᴇɴᴛᴏs ᴅᴇ ᴜsᴜáʀɪᴏ. ғᴏɪ ᴜᴍᴀ ɪɴᴛʀᴏᴅᴜçãᴏ ᴇᴍᴏᴄɪᴏɴᴀɴᴛᴇ ᴀᴏ ᴍᴜɴᴅᴏ ᴅᴀ ᴘʀᴏɢʀᴀᴍᴀçãᴏ ᴡᴇʙ ɪɴᴛᴇʀᴀᴛɪᴠᴀ.  :iphone: :computer:</h4>
-
-<img src="">
+<img src="https://raw.githubusercontent.com/ProfeFabio14/Dev-Sorteio/95deb9fe3ce5d5159e69cb35b4bb1cf8c962063e/assets/Copia%20de%20computer%20-cell.png">
